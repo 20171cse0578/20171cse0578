@@ -2,4 +2,5 @@
 {
  int n=100;
  printf("%d",n);
+ printf("y");
  }
